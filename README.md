@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @neer2804-ui
-- 👀 I’m interested in data science and machine learning
+- 👀 I’m interested in data science and machine learning!
 - 🌱 I’m currently learning AI and machine learning
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me : email neerbhanushali39@gmail.com
